@@ -1,5 +1,8 @@
 # groot
 hosting : https://ibaarani.in/groot/index.php
+api : https://round2ibaarani.free.beeceptor.com/users
+
+api source : beeceptor
 
 login : admin 
 password :admin
