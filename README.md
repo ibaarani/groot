@@ -4,8 +4,8 @@ api : https://grootpsna.free.beeceptor.com/users/users
 
 api source : beeceptor
 
-login : admin 
-phone num : 987654321
+**login : admin 
+phone num : 987654321**
  
 Signup page on clicking register 
 
@@ -25,9 +25,9 @@ sign out
 3. Consume the API (created in Step 1) and get the list. - **done** 
 4. Display the records in the UI. - **done** 
 5. When a user clicks on a particular record, he should be able to see more details of that
-user. **done update data hasn't shown**    
+user. **done data hasn't shown**    
 6. While showing the details provide an option to view details of the next and previous user
-in the list. - 
+in the list. - **design has been done but backend not yet integrated**
 7. Share the final source code via github - **done**
 8. Deploy the frontend and backend(if any) to any free hosting service - **done** 
 
