@@ -101,7 +101,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
         
     </tbody>
 </table>
-<button id="myBtn"> Open Modal </button>
+<center><button id="myBtn"> POPup</button></center>
 <p><center>
         <a href="#" class="previous">&laquo; Previous</a>
         <a href="#" class="next">Next &raquo;</a> 
@@ -119,20 +119,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
     <span class="close">&times;</span>
     <p>Welcome to great </p>
     <p>
-      <table class="table table-striped">
-    <tr  class="bg-info">
-        <th>Name</th>
-        <th>Age</th>
-        <th>DOB</th>
-        <th>first Name</th>
-        <th>Last Name</th>
-        
-        
-    </tr>
 
-    <tbody id="hello">
-        
-    </tbody>
+	    
     <center><a href="#" class="previous round">&#8249;</a>
     <a href="#" class="next round">&#8250;</a></center>
     </p>
@@ -143,7 +131,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 <script>
 	
-        const api_url = 'https://round2ibaarani.free.beeceptor.com/users';
+        const api_url = 'https://grootpsna.free.beeceptor.com/users';
 	async function getis()
 	{
 	const response = await fetch(api_url);
@@ -157,10 +145,6 @@ body {font-family: Arial, Helvetica, sans-serif;}
         }
 	getis();
         
-	
-	
-	
-	
 
 
 
@@ -180,7 +164,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
               <td>${data[i].more.address_line1} </td>
               <td>${data[i].more.address_line2} </td>
               <td>${data[i].more.address_line3} </td>
-              <td> <button id="myBtn"> Open Modal </button> </td>
+              <td> <button id="myBtn"> More </button> </td>
 							
 					  </tr>`
 			table.innerHTML += row

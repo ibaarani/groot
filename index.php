@@ -23,7 +23,7 @@
 			<div class="inner">
 				<img src="images/image-1.png" alt="" class="image-1">
 				<form method = "POST" action="#">
-					<h3>Login</h3>
+					<h3>Groot Login</h3>
 					<div class="form-holder">
 						<span class="lnr lnr-user"></span>
 						<input type="text" name = "username"class="form-control" placeholder="Name">
