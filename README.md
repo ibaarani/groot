@@ -31,6 +31,6 @@ in the list. - **design has been done but backend not yet integrated**
 7. Share the final source code via github - **done**
 8. Deploy the frontend and backend(if any) to any free hosting service - **done** 
  
-**note : if dose that data in the dash.php is not shown  might be the requst limit have been reched- regarding the api**
+**note : if dose that data in the dash.php is not shown  might be the requst limit have been reached regarding the api**
 
 Barani dharan A | www.ibaarani.in | dharxoxo@gmail.com
