@@ -5,7 +5,7 @@ api : https://grootpsna.free.beeceptor.com/users/users
 api source : beeceptor
 
 login : admin 
-password :admin
+phone num : 987654321
 
 // bug : double click on the button if not login 
 
