@@ -1,6 +1,6 @@
 # groot
 hosting : https://ibaarani.in/groot/index.php
-api : https://grootpsna.free.beeceptor.com/users/users
+api : https://grootpsna.free.beeceptor.com/users
 
 api source : beeceptor
 
