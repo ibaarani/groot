@@ -5,6 +5,7 @@ api : https://grootpsna.free.beeceptor.com/users
 api source : beeceptor
 
 login : admin 
+
 phonenum : 987654321
  
 Signup page on clicking register 
