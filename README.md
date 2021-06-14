@@ -4,8 +4,8 @@ api : https://grootpsna.free.beeceptor.com/users/users
 
 api source : beeceptor
 
-**login : admin **
-**phone num : 987654321**
+login : admin 
+phone num : 987654321
  
 Signup page on clicking register 
 
@@ -30,5 +30,6 @@ user. **done data hasn't shown**
 in the list. - **design has been done but backend not yet integrated**
 7. Share the final source code via github - **done**
 8. Deploy the frontend and backend(if any) to any free hosting service - **done** 
+ 
 
 Barani dharan A | www.ibaarani.in | dharxoxo@gmail.com
