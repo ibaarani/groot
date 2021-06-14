@@ -6,22 +6,18 @@ api source : beeceptor
 
 login : admin 
 phone num : 987654321
-
-// bug : double click on the button if not login 
-
+ 
 Signup page on clicking register 
 
 Dashboard : shows the data from the mock api 
 
 
-//bug open model on the table wont work 
+//bug More button  on the table wont work <just nedd to integrate the pop up which is down to  the table in more >
 
-// pop up button will work 
+// pop up button will work with next and previous 
 
 sign out 
 
-
-Barani dharan A | www.ibaarani.in
 
 
 1. Create a mock API, which will return a list of users. - **done**
@@ -29,8 +25,10 @@ Barani dharan A | www.ibaarani.in
 3. Consume the API (created in Step 1) and get the list. - **done** 
 4. Display the records in the UI. - **done** 
 5. When a user clicks on a particular record, he should be able to see more details of that
-user.
+user. **done update data hasn't shown**    
 6. While showing the details provide an option to view details of the next and previous user
-in the list. - **done** 
+in the list. - 
 7. Share the final source code via github - **done**
 8. Deploy the frontend and backend(if any) to any free hosting service - **done** 
+
+Barani dharan A | www.ibaarani.in | dharxoxo@gmail.com
